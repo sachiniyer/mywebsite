@@ -1,0 +1,92 @@
+html {
+    font-size: 100%;
+    font-family:  'Open Sans', sans-serif;
+    height: 100%;
+}
+
+div {
+    padding: 0px;
+}
+
+body {
+    background-color: #3797a4;
+}
+
+p {
+    color: #333333;
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: #333333;
+    font-size: 1.5em
+}
+
+a:hover {
+    color: #8ccbbe;
+}
+
+#top {
+    background-color: #333333;
+    padding-top: 2%;
+    margin-left: -20px;
+    margin-right: -8px;
+    margin-top: -10px;
+}
+
+#title {
+    padding-left: 10%;
+    color: #333333;
+    text-align: left;
+    padding-bottom: 1%;
+    font-size: 3.1em;
+}
+
+.line {
+    background-color: #ffffff;
+    height: 4px;
+    margin-left: -10px;
+    margin-right: -8px;
+}
+
+.line1 {
+    background-color: #ffffff;
+    height: 4px;
+    margin-left: -10px;
+}
+
+#content {
+    margin-right: 10%;
+    margin-left: 10%;
+    height: auto;
+}
+
+#links {
+    position: absolute;
+    bottom: 3%;
+    width: 102%;
+    left: -2%;
+}
+
+#githubdiv {
+    float: left;
+    max-width: 40%;
+    margin-left: 10%;
+    top: 0;
+    bottom: 0;
+    align-content: center;
+    padding-top: 1%
+}
+
+#githubimage {
+    max-width: 10%;
+    max-height: 10%;
+}
+
+#emaildiv {
+    float: right;
+    max-width: 40%;
+    margin-right: 10%;
+    padding-top: 2%;
+ }
