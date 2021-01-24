@@ -1,8 +1,0 @@
-* make star wars about section
-Once upon a time, there was a
-* About section
-Once upon a time, there was a child named Sachin born to two people in Northern
-California. Now he has grown into a still basically child at the age of 18. By
-this time, he has learned how to do some web development with Javascript, some
-machine learning with Python, and some cloud stuff on AWS to name a few things.
-He also really likes playing/listening to music.

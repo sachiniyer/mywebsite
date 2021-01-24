@@ -1,0 +1,6 @@
+* About section
+** dynamically split text
+find first space after ever certain amount of characters (perfect splitting is
+not important)
+save substring in temp string
+create new meshwriter object with z coord textsize+buffer down.
